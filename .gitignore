@@ -1,4 +1,3 @@
 __pycache__/
 source/factor_multiple/__pycache__/
 *.spec
-test.py
