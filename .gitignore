@@ -1,3 +1,3 @@
-build/*
+build/gui/*
 __pycache__/*
 *.spec
